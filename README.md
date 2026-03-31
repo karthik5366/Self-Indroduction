@@ -1,5 +1,8 @@
 # Hi there, I'm Karthik Polisetti 👋
 
+#My Self Introduction Video 
+* https://drive.google.com/file/d/14KAe9Qi4VMjaSrqRszkIK4hzOZKbehgq/view?usp=sharing
+
 ## 👨‍💻 About Me
 * I am a B.Tech student in Computer Science and Engineering, specializing in Cyber Security & Digital Forensics at VIT Bhopal University.
 * I am based in Rajamahendravaram, India, and currently working towards becoming a Full-Stack Developer and an AI/ML Engineer.
